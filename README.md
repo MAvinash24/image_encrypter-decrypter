@@ -1,12 +1,10 @@
-# PRODIGY_CS_02
-
-## Image Encryptor/Decryptor
+# Image Encryptor/Decryptor
 
 A simple GUI-based application to encrypt and decrypt images using  image pixels and a user-provided key. This tool uses Python's `Pillow` and `NumPy` libraries for image manipulation and `Tkinter` for the graphical user interface.
 
 ---
 
-### Features
+## Features
 
 - **Encryption**: Encrypts an image using a key (0-255) and saves the result as `encrypted_image.png`.
 - **Decryption**: Decrypts the encrypted image using the same key and saves the result as `decrypted_image.png`.
@@ -16,7 +14,7 @@ A simple GUI-based application to encrypt and decrypt images using  image pixels
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x
 - Required Python libraries:
@@ -31,7 +29,7 @@ pip install pillow numpy
 
 ---
 
-### Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -50,5 +48,5 @@ python image_pixel_manipulation.py
 
 ---
 
-### Screenshot of GUI
+## Screenshot of GUI
 ![Image Pixel Manipulation GUI](https://github.com/user-attachments/assets/8eae7e7f-81b9-4349-a851-18b4b64c0f53)
